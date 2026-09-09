@@ -124,4 +124,4 @@ El temario LPI clasifica las distribuciones en tres grandes categorías según s
 ---
 
 **Referencias:**
-- [[02-Cuestionario]]
+- [[02-Cuestionario-FS1]]
