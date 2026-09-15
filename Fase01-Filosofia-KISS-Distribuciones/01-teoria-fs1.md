@@ -1,8 +1,11 @@
+---
+title: "01-Teoria-FS1"
+date: 2026-09-03 12:48
+---
+
 # Filosofía Open Source, KISS y Distribuciones
 
-*2026-09-03 12:48*
 
-**tags:** [[]]
 
 ---
 
@@ -124,4 +127,7 @@ El temario LPI clasifica las distribuciones en tres grandes categorías según s
 ---
 
 **Referencias:**
-- [[02-Cuestionario-FS1]]
+- [[02-cuestionario-fs1]]
+
+## Referencias
+- [[02-cuestionario-fs1]]

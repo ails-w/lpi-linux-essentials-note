@@ -1,8 +1,11 @@
+---
+title: "02-Cuestionario-FS1"
+date: 2026-09-07 13:22
+---
+
 # Cuestionario-1: Filosofía Open Source, KISS y Distribuciones
 
-*2026-09-07 13:22*
 
-**tags:** [[]]
 
 ---
 
@@ -92,5 +95,8 @@
 ---
 
 **Referencias:**
-- [[01-Teoria-FS1]]
+- [[01-teoria-fs1]]
 
+
+## Referencias
+- [[01-teoria-fs1]]

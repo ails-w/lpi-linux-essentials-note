@@ -1,3 +1,9 @@
+---
+title: "LPI Linux Essentials — Apuntes de Estudio"
+aliases: ["LPI Linux Essentials — Apuntes de Estudio"]
+tags: [moc]
+---
+
 # LPI Linux Essentials — Apuntes de Estudio
 
 - Apuntes de estudio desarrollados como complemento práctico/técnico al temario de **Linux Professional Institute (LPI) Linux Essentials**, aplicado sobre un sistema **Arch Linux** con enfoque en filosofía KISS, Btrfs y herramientas de línea de comandos.
